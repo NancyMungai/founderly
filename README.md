@@ -1,30 +1,55 @@
-# Founderly app prototype
+# Founderly 🚀
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A coaching platform for startup founders preparing to take their idea 
+to a major tech conference, from first validation through to the stage.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mungainancy21-7815s-projects/v0-founderly-app-prototype)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/mgO4E7wiRJV)
+## What it does
 
-## Overview
+Founderly guides founders through the full journey of preparing for a 
+conference appearance. Whether you're pitching to investors, setting up 
+a demo, or building your network, the platform gives you a structured 
+path and an AI coach to help you get there.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- **AI Founder Coach** — a chatbot that gives personalised feedback on 
+  your pitch, idea, and preparation strategy
+- **Interactive Roadmap** — tracks your progress through key milestones 
+  from idea validation to conference day
+- **Goal-Based Experience** — tailor the platform to your primary goal: 
+  pitch, network, or demo
+- **Sustainability Challenge** — track and improve your startup's 
+  sustainability practices
+- **Badges & Progress** — earn achievements as you hit milestones
+- **Motivation Hub** — resources and support to keep momentum going
 
-## Deployment
+## Tech stack
 
-Your project is live at:
+- **Next.js** — App Router
+- **TypeScript**
+- **React**
+- **Tailwind CSS**
+- **Radix UI**
+- **Framer Motion**
+- Deployed on **Vercel**
 
-**[https://vercel.com/mungainancy21-7815s-projects/v0-founderly-app-prototype](https://vercel.com/mungainancy21-7815s-projects/v0-founderly-app-prototype)**
+## Getting started
 
-## Build your app
+```bash
+pnpm install
+pnpm dev
+```
 
-Continue building your app on:
+Open [http://localhost:3000](http://localhost:3000)
 
-**[https://v0.app/chat/mgO4E7wiRJV](https://v0.app/chat/mgO4E7wiRJV)**
+## Roadmap
 
-## How It Works
+- [ ] **Investor matching** — connect founders with relevant investors 
+  attending the conference based on startup stage and sector
+- [ ] **Pitch deck analyser** — upload your deck and get structured 
+  feedback before you present
+- [ ] **Peer review mode** — let other founders review and give feedback 
+  on your pitch
+- [ ] **Session scheduler** — plan which talks and panels to attend based 
+  on your goals
+- [ ] **Post-conference follow-up tracker** — manage connections and 
+  next steps after the event
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
